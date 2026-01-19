@@ -1,0 +1,14 @@
+# Build artifacts
+*.o
+ekf_demo
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
